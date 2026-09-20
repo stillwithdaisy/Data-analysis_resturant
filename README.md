@@ -1,3 +1,7 @@
+<img width="2255" height="2053" alt="votes_analysis (1)" src="https://github.com/user-attachments/assets/84b523b8-f0ba-4dfb-a271-2dc536a4e40b" />
+<img width="747" height="482" alt="Screenshot 2026-07-02 091548" src="https://github.com/user-attachments/assets/da7c3cf0-8e72-492c-93cf-0c9d135649f0" />
+<img width="2161" height="1919" alt="restaurant_reviews (1)" src="https://github.com/user-attachments/assets/b3236ecd-3000-47cb-924c-2c281946238f" />
+<img width="2102" height="2223" alt="price_delivery_booking (2)" src="https://github.com/user-attachments/assets/d01d5e60-645f-436e-b099-5c767ef431d0" />
 # Data-analysis_resturant
 Performed data analysis on a sample dataset of a resturant to visualize reviews, top cushions, votings, top cities etc. these were the tasks i was given during my one month internship . 
 <img width="1050" height="750" alt="price_range_distribution (1)" src="https://github.com/user-attachments/assets/cf1efd88-c333-4b77-b2e8-5db52021d9b5" />
